@@ -1,0 +1,25 @@
+#1.count the number of digits in a number.
+'''count=0
+n=int(input())\
+temo=n
+while n>0:
+    count+=1
+    n//=10
+print(count)
+print(len(str(temp)))
+#2.find the sum of digits
+n=int(input())
+s=0
+while n>0:
+    s+=(n%10)
+    n//=10
+print(s)
+3.reverse a number
+4.check palindrome number
+5.check armstrong number
+6.count even and odd digits
+7.find largest and smallest digit
+8.count zero digits
+9.find digital root of a number
+10.check spy number
+'''
